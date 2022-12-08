@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="insira_seu_livro">Insira seu livro...</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="novo_locador">Novo locador</string>
+    <string name="dados_locador">Dados do locador</string>
+    <string name="livro">Livro:</string>
+    <string name="locador">Locador:</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="dt_cancelar">Cancelar</string>
+</resources>
